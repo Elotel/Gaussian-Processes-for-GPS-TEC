@@ -94,4 +94,4 @@ GOPI output formats vary by version. If your files differ, edit `load_vtec` only
 
 Ezekwueme Augustine Elozana · ORCID [0009-0003-7310-5217](https://orcid.org/0009-0003-7310-5217)
 
-Licence: add one before publishing (for example MIT for code).
+Licence: MIT

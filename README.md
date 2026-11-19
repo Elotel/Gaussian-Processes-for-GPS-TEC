@@ -25,13 +25,8 @@ The dissertation processed dual-frequency GNSS (RINEX) data with the GOPI GPS-TE
 ├── GP_Storm_TEC_ADIS_BJCO.ipynb   # main notebook
 ├── requirements.txt
 ├── README.md
-└── data/                          # you create this (not included)
-    ├── vtec_ADIS.csv
-    ├── vtec_BJCO.csv
-    └── omni.csv
 ```
 
-## Quick start
 
 ```bash
 pip install -r requirements.txt
